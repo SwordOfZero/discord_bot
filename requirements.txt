@@ -1,0 +1,6 @@
+sqlite3
+discord
+discord.ext
+random
+logging
+sys
